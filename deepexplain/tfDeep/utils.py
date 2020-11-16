@@ -1,6 +1,7 @@
 import numpy as np
 import tensorflow as tf
 
+
 # Some of the following functions for batch processing have been borrowed and adapter from Keras
 # https://github.com/keras-team/keras/blob/master/keras/utils/generic_utils.py
 # https://github.com/keras-team/keras/blob/master/keras/engine/training_utils.py
